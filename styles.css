@@ -1,0 +1,22 @@
+@charset "utf-8";
+.expand {
+	width: 100%;
+}
+.heading {
+	line-height: 10px;
+	margin-right: 10px;
+}
+.caption1 {
+	font-size: 5px;
+}
+.content {
+	width: 800px;
+	text-align: left;
+	margin: 0 auto;
+	font-style: italic;
+}
+.content2 {
+	width: 800px;
+	text-align: left;
+	margin: 0 auto;
+}
